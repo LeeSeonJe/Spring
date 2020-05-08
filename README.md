@@ -53,3 +53,21 @@
 ### Spring 동작 구조
 - Spring 애플리케이션
 - Spring 웹
+
+
+
+
+
+
+
+
+# Spring 실행하기
+### 1. STS Tool 사용하기
+- spring.io 접속
+- menu > project > Spring Tools4 
+![image](https://user-images.githubusercontent.com/59919620/81405371-75fc7500-9172-11ea-88de-f8ffa3857271.png)
+- scroll을 쭉 내리다 보면 "Looking for Spring Tool Suite 3?" 부분에서 "Spring Tool Suite 3 wiki" click
+- Spring Tool Suite 3.9.12 > full distribution on Eclipse @.@@ > 자신과 같은 Eclipse version 사용 / 버전이 달라도 괜찮음.
+- download
+- ex) **\"spring-tool-suite-3.9.12.RELEASE-e4.14.0-win32-x86_64.zip\"** 
+
