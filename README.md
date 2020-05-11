@@ -95,3 +95,22 @@
 
 
 # Spring project Create
+
+### Spring + maven 연동
+
+- window > Preferences > Maven > User Settings
+  - ![image](https://user-images.githubusercontent.com/59919620/81580147-01cb0700-93e8-11ea-834f-d0d93fce5680.png)
+- apache-maven-3.6.3 > conf > settings.xml
+
+### server setting
+- 알아서 서버 만들기
+
+### Spring Legacy Project
+- file > new > Spring Legacy Project > Spring MVC Project
+  - ![image](https://user-images.githubusercontent.com/59919620/81580452-6d14d900-93e8-11ea-95ad-4b3b134fa8f0.png)
+- Spring 프로젝트 구조 
+  - ![image](https://user-images.githubusercontent.com/59919620/81580684-b8c78280-93e8-11ea-97c4-2ea54460681f.png)
+- project level을 3단계로 해야한다.
+- 마지막의 페키지명이 rootContext가 된다.
+- Progress를 확인하면서 끝나기를 기다린다.
+- 프로젝트 생성후 pom.xml을 확인해보자
