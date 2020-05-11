@@ -19,6 +19,7 @@
 - \<localRepository>"repository" localAddress 추가\</localRepository>
 - ex) \<localRepository>E:\dev\apache-maven-3.6.3\repository\</localRepository>
   - ![image](https://user-images.githubusercontent.com/59919620/81405743-3aae7600-9173-11ea-8f90-aeba7d32c903.png)
+- 따로 주석처리를 가져와서 빼주는 이유는 라이브러리를 개발자가 직접 설정한 경로에서 관리하기 위해서
 
 
 ## Spring Study
